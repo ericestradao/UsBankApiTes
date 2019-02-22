@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UsBankApiTest</string>
+    <string name="show_snackbar">Snack Bar</string>
+</resources>
